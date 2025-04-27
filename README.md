@@ -28,7 +28,7 @@ Se comparan distintos enfoques de entrenamiento y ajuste fino. Se analizan los r
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/AzulVillanueva/CEIA-VPC2.git
+   git clone https://github.com/dieguearau/waste_classification
    ```
 2. Instalar dependencias:
    ```bash
