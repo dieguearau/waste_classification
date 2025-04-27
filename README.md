@@ -7,7 +7,7 @@ Este proyecto formó parte del trabajo final del curso de Computer Vision II, de
 
 ### 📁 Estructura del Proyecto
 
-- `TP_Final_CVII_Final.ipynb`: Notebook principal con el desarrollo completo del trabajo, que incluye:
+- [`Waste_Classification.ipynb`](https://github.com/dieguearau/waste_classification/blob/main/Waste_Classification.ipynb): Notebook principal con el desarrollo completo del trabajo, que incluye:
   - Carga y preprocesamiento del dataset.
   - Entrenamiento de una CNN desde cero.
   - Aplicación de técnicas de Data Augmentation.
