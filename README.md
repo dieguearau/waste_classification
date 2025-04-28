@@ -1,9 +1,9 @@
 
 ## 🧠 Clasificación de Imágenes con CNN y Transfer Learning
 
-Este repositorio contiene el desarrollo del trabajo práctico final de la materia **Visión por Computadora II**. El objetivo es resolver un problema de **clasificación de residuos** mediante imágenes del dataset [TrashNet](https://www.kaggle.com/datasets/feyzazkefe/trashnet/data), utilizando distintos enfoques basados en redes neuronales convolucionales (CNN), incluyendo modelos personalizados y técnicas de **Transfer Learning** con ResNet50.
+El objetivo es resolver un problema de **clasificación de residuos** mediante imágenes del dataset [TrashNet](https://www.kaggle.com/datasets/feyzazkefe/trashnet/data), utilizando distintos enfoques basados en redes neuronales convolucionales (CNN), incluyendo modelos personalizados y técnicas de **Transfer Learning** con ResNet50.
 
-Este proyecto formó parte del trabajo final del curso de Computer Vision II, de la Carrera de Especialización en Inteligencia Artificial (CEIA) de Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA - UBA).
+Este proyecto formó parte del trabajo final del curso de **Computer Vision II**, de la Carrera de Especialización en Inteligencia Artificial (CEIA) de Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA - UBA).
 
 ### 📁 Estructura del Proyecto
 
